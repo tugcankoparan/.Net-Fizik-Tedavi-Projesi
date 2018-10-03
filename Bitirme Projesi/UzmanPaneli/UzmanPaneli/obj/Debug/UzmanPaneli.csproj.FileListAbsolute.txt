@@ -1,0 +1,35 @@
+c:\users\met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\bin\Debug\UzmanPaneli.exe.config
+c:\users\met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.csprojResolveAssemblyReference.cache
+c:\users\met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.Form1.resources
+c:\users\met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.Properties.Resources.resources
+c:\users\met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.csproj.GenerateResource.Cache
+c:\users\met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\bin\Debug\UzmanPaneli.exe
+c:\users\met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\bin\Debug\UzmanPaneli.pdb
+c:\users\met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.exe
+c:\users\met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.pdb
+c:\users\met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.islemSec.resources
+C:\Users\Met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\MainWindow.baml
+C:\Users\Met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\MainWindow.g.cs
+C:\Users\Met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli_MarkupCompile.cache
+C:\Users\Met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.g.resources
+C:\Users\Met\documents\visual studio 2015\Projects\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.HastaEgzersizVer.resources
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\bin\Debug\UzmanPaneli.exe.config
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.exe
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.pdb
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\bin\Debug\UzmanPaneli.exe
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\bin\Debug\UzmanPaneli.pdb
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.csprojResolveAssemblyReference.cache
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\MainWindow.baml
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\MainWindow.g.cs
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli_MarkupCompile.cache
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.g.resources
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.AddImage.resources
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.Form1.resources
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.HastaEgzersizVer.resources
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.islemSec.resources
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.Properties.Resources.resources
+C:\Users\Met\Desktop\UzmanPaneli\UzmanPaneli\obj\Debug\UzmanPaneli.csproj.GenerateResource.Cache

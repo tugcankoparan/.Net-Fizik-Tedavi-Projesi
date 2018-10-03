@@ -1,0 +1,32 @@
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\bin\Debug\HastaGirisi.exe.config
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\bin\Debug\HastaGirisi.exe
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\bin\Debug\HastaGirisi.pdb
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\bin\Debug\Microsoft.Kinect.dll
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\bin\Debug\Microsoft.Kinect.xml
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.csprojResolveAssemblyReference.cache
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.EgzersizSec.resources
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.HastaLogin.resources
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.Properties.Resources.resources
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.csproj.GenerateResource.Cache
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.exe
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.pdb
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\MainWindow.baml
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\MainWindow.g.cs
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi_MarkupCompile.cache
+c:\users\met\documents\visual studio 2015\Projects\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.g.resources
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\bin\Debug\HastaGirisi.exe.config
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.exe
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.pdb
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\bin\Debug\HastaGirisi.exe
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\bin\Debug\HastaGirisi.pdb
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.csprojResolveAssemblyReference.cache
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\MainWindow.baml
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\MainWindow.g.cs
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi_MarkupCompile.cache
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.g.resources
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.EgzersizSec.resources
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.HastaLogin.resources
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.Properties.Resources.resources
+C:\Users\Met\Desktop\HastaGirisi\HastaGirisi\obj\Debug\HastaGirisi.csproj.GenerateResource.Cache
